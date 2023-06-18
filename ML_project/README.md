@@ -8,5 +8,8 @@ RNN 기초를 배운 것을 미니프로젝트를 통해 써먹고 싶었다
 제일 시간이 많이 걸리는 것은 데이터 전처리다. 
 
 ## 출처
-https://velog.io/@hsjunior1/%EC%A3%BC%EC%8B%9D-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B03-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EC%98%88%EC%B8%A1-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EC%8B%A4%ED%8C%A8  의 코드에서 간단히 하이퍼파라미터 조정을 해보았다. 
+https://velog.io/@hsjunior1/%EC%A3%BC%EC%8B%9D-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B03-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EC%98%88%EC%B8%A1-%EC%B2%AB-%EB%B2%88%EC%A7%B8-%EC%8B%A4%ED%8C%A8 의 코드 골자를 유지했다.
+
+1. Dropout층 추가.
+2. 추세선 나타냄
 
